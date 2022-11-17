@@ -18,4 +18,4 @@ This example makes use of the V7labs V2 API as well as the darwin-py SDK. You ca
 
 This script can be easily readapted to detect files that are too similar based on their RGB channel values. Reach out to your V7 Customer Success Manager if you are interested in speaking to a Customer Success Engineer about the range of possibilities and how we can help with your use case.
 
-
+Everything is currently in main.py but will soon be properly split into modules.
